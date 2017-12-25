@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             //in vs
             //in git pull
+            //ok
         }
     }
 }
